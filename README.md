@@ -7,6 +7,7 @@ The purpose of this project was to analyze stock information for our friend Stev
 
 ## Results
 Below will show the exact code used for analysis:
+
 ![All_Stock_Analysis_Refactored_Code pt1](https://user-images.githubusercontent.com/95371617/148290873-c056b5ee-4a8d-46e6-b88d-5a023d81859e.png)
 ![All_Stock_Analysis_Refactored_Code pt2](https://user-images.githubusercontent.com/95371617/148290889-0fd5bc11-494b-4e9a-aa5b-9d42a9aff18a.png)
 ![All_Stock_Analysis_Refactored_Code pt3](https://user-images.githubusercontent.com/95371617/148290906-d3f3daa9-b865-4542-92c2-c0ad61c90eb4.png)
