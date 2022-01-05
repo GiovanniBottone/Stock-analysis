@@ -14,5 +14,6 @@ Below will show the exact code used for analysis:
 There is a clear difference between the stock performance of 2017 and the stock performance of 2018, 10/12 stocks performed better in 2017 than in 2018. 
 
 For reference:
-[
+[![VBA_Challenge_2018](https://user-images.githubusercontent.com/95371617/148290794-21a1fe92-c188-469d-b6d3-48c010bfee6a.png)
+
 ### Analysis
